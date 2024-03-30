@@ -7,6 +7,7 @@ public class Study06 {
         System.out.println(ind.indexOf("학습"));
         System.out.println(ind.indexOf("처음",4));
         System.out.println(ind.indexOf("자바",10));
-        System.out.println(str.substring(2,4));
+        System.out.println(str.substring(0,3));
+        System.out.println(str.charAt(2));
     }
 }
