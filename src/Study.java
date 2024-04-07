@@ -1,9 +1,9 @@
 public class Study {
     public static void main(String[] args) {
-        int n1, n2, res;
-        n1 = 5;
-        n2 = 3;
-        res = n1 + n2;
-        System.out.println(res);
+        String var1 = "작은따옴표는 \' 모양입니다.";
+        String var2 = "큰따옴표는 \"모양입니다.";
+
+        System.out.println(var1);
+        System.out.println(var2);
+      }
     }
-}
